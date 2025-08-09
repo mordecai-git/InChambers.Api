@@ -1,5 +1,6 @@
 // ReSharper disable once RedundantUsingDirective
 using InChambers.Core.Interfaces;
+using System.Text.Json.Serialization;
 
 namespace InChambers.Core.Models.Utilities;
 
